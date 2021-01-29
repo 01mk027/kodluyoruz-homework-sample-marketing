@@ -1,0 +1,12 @@
+{
+  "productContent":[
+    {"id":1, "title":"Deneme 1", "detail":"Detay 1", "imgSrc":"https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg", "isSale":true},
+    {"id":2, "title":"Deneme 2", "detail":"Detay 2","imgSrc":"https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg", "isSale":true},
+    {"id":3, "title":"Deneme 3", "detail":"Detay 3","imgSrc":"https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg", "isSale":true},
+    {"id":4, "title":"Deneme 4", "detail":"Detay 4","imgSrc":"https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg", "isSale":true},
+    {"id":5, "title":"Deneme 5", "detail":"Detay 5","imgSrc":"https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg", "isSale":true},
+    {"id":6, "title":"Deneme 6", "detail":"Detay 6","imgSrc":"https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg", "isSale":true},
+    {"id":7, "title":"Deneme 7", "detail":"Detay 7","imgSrc":"https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-600w-1725825019.jpg", "isSale":true}
+
+  ]
+}
